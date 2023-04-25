@@ -1,1 +1,5 @@
-rootProject.name = 'demo'
+rootProject.name = 'demo2'
+
+include 'pt'
+include 'bt'
+
